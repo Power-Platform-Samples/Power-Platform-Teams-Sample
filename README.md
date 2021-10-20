@@ -21,7 +21,7 @@ Details on the solution can be found in the [docs folder](https://github.com/Pow
 ## Bot Implementaion and Interaction 
 
 Make a semi-structured document, representing FAQs, in the form of excel sheet or Sharepoint having question and answer pairs.
-QnA Maker](https://www.qnamaker.ai/) uses artificial intelligence to extract relevant question-answer pairs.
+[QnA Maker](https://www.qnamaker.ai/) uses artificial intelligence to extract relevant question-answer pairs.
 It also incorporates powerful matching and ranking algorithms to match a user query with pre-existing questions. In case, no match is 
 found, the Admin is notified on his e-mail.
 
