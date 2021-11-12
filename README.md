@@ -25,5 +25,5 @@ You can expand the solution and mould it as per your requirements - e.g if you a
 The [QnA Maker Platform](https://www.qnamaker.ai/) allows you to build, train and publish a simple bot based on FAQs in the form of question-answer pairs, maintained in a well-structured format.
 In this sample, we demonstrate how to use the QnA Maker service to answer questions based on the given input.
 Details on the solution can be found in the [Power-Platform-Teams-QNA repository](https://github.com/Power-Platform-Samples/Power-Platform-Teams-QNA).
-Want to know more? Head on to (Can we build an entire solution with no code? Let’s find out!)[https://techcommunity.microsoft.com/t5/educator-developer-blog/can-we-build-an-entire-solution-with-no-code-let-s-find-out/ba-p/2930703]
+Want to know more? Head on to [Can we build an entire solution with no code? Let’s find out!](https://techcommunity.microsoft.com/t5/educator-developer-blog/can-we-build-an-entire-solution-with-no-code-let-s-find-out/ba-p/2930703)
 
